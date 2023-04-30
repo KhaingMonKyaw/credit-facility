@@ -1,2 +1,7 @@
-package com.datwyler.creditfacility.controller;public class CreditFacilityController {
+package com.datwyler.creditfacility.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class CreditFacilityController {
 }

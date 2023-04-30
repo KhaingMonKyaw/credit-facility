@@ -1,2 +1,4 @@
-package com.datwyler.creditfacility.constant;public class CommonConst {
+package com.datwyler.creditfacility.constant;
+
+public class CommonConst {
 }
